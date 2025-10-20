@@ -1,0 +1,12 @@
+{
+  "item.tutorialmod.topaz": "Topaz",
+  "item.tutorialmod.raw_topaz": "Raw Topaz",
+
+  "block.tutorialmod.topaz_block": "Block of Topaz",
+  "block.tutorialmod.topaz_ore": "Topaz Ore",
+  "block.tutorialmod.topaz_deepslate_ore": "Deepslate Topaz Ore",
+
+
+  "creativetab.tutorialmod.tutorialmod_items": "TutorialMod Items",
+  "creativetab.tutorialmod.tutorialmod_blocks": "TutorialMod Blocks"
+}
